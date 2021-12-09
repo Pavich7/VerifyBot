@@ -7,7 +7,7 @@ bot.on('message' , msg=>{
         const embed = new Discord.MessageEmbed()
             .setTitle("✅ **Verified!**")
             .setDescription("You have been verified!")
-        let role = msg.guild.roles.cache.get("YOUR ROLES ID");
+        let role = msg.guild.roles.cache.get("YOUR_ROLE_ID");
         msg.member.roles.add(role);
         msg.react("✅")
         msg.author.send(embed)
