@@ -14,7 +14,7 @@
 **Step 6** Replace `YOUR_ROLES_ID` with your verify role id in line 10 then save.\
 **Step 7** Open Command Prompt (Windows) or Terminal (Linux & Mac) with nodejs.\
 **Step 8** Navigate to your bot folder using `cd` command.\
-**Step 9** Install Discordjs by type `npm install discord.js` then hit Enter.\
+**Step 9** Install Discordjs by type `npm install` then hit Enter.\
 **Step 10** Run by type `node index.js` then hit Enter.
 ## Invite to your server
 **Step 1** Go to OAuth2 URL Generator section.\
